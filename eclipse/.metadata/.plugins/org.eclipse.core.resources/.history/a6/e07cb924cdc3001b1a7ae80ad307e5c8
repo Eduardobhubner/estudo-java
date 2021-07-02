@@ -1,0 +1,23 @@
+
+public class TestaVariaveis {
+
+	public static void main(String[] args) {
+		
+		
+		int idade = 19;
+		
+		System.out.println("A idade é: " + idade + " !!!");
+		
+		double salario = 1200.60;
+		
+		System.out.println("O meu salário é: " + salario + " !!!");
+		
+		char inutil = 'a'; //65
+		
+		System.out.println(inutil);
+		
+		String nomeDaCidade = "São paulo"
+		
+		System.out.println(nomeDaCidade);
+	}
+}

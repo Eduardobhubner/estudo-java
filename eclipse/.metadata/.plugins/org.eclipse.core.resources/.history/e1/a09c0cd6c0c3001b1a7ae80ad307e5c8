@@ -1,0 +1,16 @@
+
+public class TestaVariaveis {
+
+	public static void main(String[] args) {
+		
+		
+		int idade = 19;
+		
+		System.out.println("A idade é: " + idade + " !!!");
+		
+		double salario = 5.0/2;
+		
+		System.out.println("O meu salário é: " + salario + " !!!");
+		
+	}
+}
